@@ -56,3 +56,39 @@ a:hover{
     top: 3rem;
     left:4rem;
 }
+h1{
+    color: royalblue;
+}
+.original{
+    color: orangered;
+}
+.additional{
+    color: lightcoral;
+}
+#first{
+    color: lawngreen;
+}
+#second{
+    color: goldenrod;
+}
+#third{
+    color: darkslategray;
+}
+#fourth{
+    color: darkcyan;
+}
+#fifth{
+    color: black;
+}
+ul{
+    color: blanchedalmond;
+}
+.star{
+    color: chocolate;
+}
+#wars{
+    color: darkblue;
+}
+.list{
+    border: 2px black solid;
+}
