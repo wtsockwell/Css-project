@@ -23,3 +23,22 @@ a:hover{
     color:ivory;
     font-weight: 700;
 }
+.boxes{
+    margin: 2rem;
+    padding: 3rem;
+    border: black solid;
+    border-radius: 5px;
+    width: 30em;
+}
+#box1{
+    background-color: forestgreen;
+}
+#box2{
+    background-color: goldenrod;
+}
+#box3{
+    background-color: indianred;
+}
+#box4{
+    background-color: violet;
+}
