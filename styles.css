@@ -32,13 +32,27 @@ a:hover{
 }
 #box1{
     background-color: forestgreen;
+    display: block;
 }
 #box2{
     background-color: goldenrod;
+    display: block;
+    position: relative;
 }
 #box3{
     background-color: indianred;
+    display: block;
 }
 #box4{
     background-color: violet;
+    display: block;
+}
+.image{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: teal;
+    position: relative;
+    top: 3rem;
+    left:4rem;
 }
